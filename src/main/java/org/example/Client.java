@@ -6,7 +6,7 @@ import com.example.grpc.RotarGrpc;
 import com.example.grpc.RotarOuterClass;
 
 import java.util.Iterator;
-
+// в проекте путь к файлу должен быть без русских букв
 public class Client {
     public static void main(String[] args) {
 
