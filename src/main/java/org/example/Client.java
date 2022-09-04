@@ -21,6 +21,6 @@ public class Client {
             channel.shutdown();
         }
        // System.out.println(response+ "the end");
-
+// всегда делать этот проект так чтобы в пути не попадались русские буквы
     }
 }
